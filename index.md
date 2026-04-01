@@ -10,7 +10,7 @@ header:
 excerpt: >
   Words and Stuff Here.
 feature_row:
-  - image_path: /assets/images/rose-hips.jpg
+  - image_path: /assets/images/aliens-among-us.jpg
     alt: "plants"
     title: "Plants"
     excerpt: "Wondering 'What are they' or 'Why love them?' In this essay I will-"
@@ -24,7 +24,7 @@ feature_row:
     url: "/temp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/path.jpg
+  - image_path: /assets/images/rose-hips.jpg
     alt: "mission"
     title: "Words!!!"
     excerpt: "Another..."
