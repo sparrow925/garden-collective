@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Shop"
-    url: https://shop.catcatroot.net/
   - title: "Read"
+    url: https://shop.catcatroot.net/
+  - title: "Friends"
     url: /temp/
-  - title: "Us"
+  - title: "About"
     url: /temp/
   # - title: "Sample Collections"
   #   url: /collection-archive/
