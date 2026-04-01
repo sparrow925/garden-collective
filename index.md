@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
-title: "Ws in the Chat Garden Collective"
+title: "Ws in the Chat"
 header:
   overlay_color: "#8fbc8f"
   overlay_image: assets/images/mm-customizable-feature.jpg
