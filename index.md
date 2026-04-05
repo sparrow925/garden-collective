@@ -12,8 +12,8 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/aliens-among-us.jpg
     alt: "plants"
-    title: "Plants"
-    excerpt: "Wondering 'What are they' or 'Why love them?' In this essay I will-"
+    title: "Gardening"
+    excerpt: "In this essay I will-"
     url: "/temp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
