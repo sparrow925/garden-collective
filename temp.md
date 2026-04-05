@@ -19,8 +19,11 @@ Places to buy Native Seeds:
 * Prairie Moon Nursery
 * Prairie Restoration, Inc.
 
-
 Community Opportunities for Bartering/Free Seeds:
 * Whittier/Wedge Garden Collective Seeds
 * [Dream of Wild Health Annual Seed Swap](https://dreamofwildhealth.org/events/) (typically in early April)
 * You local seed library: https://www.hclib.org/about/locations/seed-libraries
+
+No-cost Gardening:
+* Start seeds in seed snails made from cardboard!
+* Make a garedn bed from pallets (confirm that there is an "HT" mark on the pallet first! Otherwise it's possible it has been treated with harsh chemicals you don't want near your food.)
