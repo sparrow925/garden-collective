@@ -4,14 +4,23 @@ permalink: /temp/
 date: 2026-03-30T03:02:20+00:00
 ---
 
-Who are we? I dunno!
+Who are we? I dunno! But we live in South Minneapolis and we like to garden.
 ...
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
-> Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
+Things we're doing:
+* Pallets to Garden Beds
+* Whittier/Wedge Garden Collective Seeds
+* Skillshares
+* Caring for our edibles: [Falling Fruit](https://fallingfruit.org)
 
-...or something like this:
+Places to buy Native Seeds:
+* [Out Back Nursery and Native Flora](https://www.outbacknursery.com) in Hastings, MN
+* [MN Seed Project](https://www.mnseedproject.org)
+* Prairie Moon Nursery
+* Prairie Restoration, Inc.
 
-> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
 
-You should probably delete this page and create new pages for your content. Have fun!
+Community Opportunities for Bartering/Free Seeds:
+* Whittier/Wedge Garden Collective Seeds
+* [Dream of Wild Health Annual Seed Swap](https://dreamofwildhealth.org/events/) (typically in early April)
+* You local seed library: https://www.hclib.org/about/locations/seed-libraries
