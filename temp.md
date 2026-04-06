@@ -28,4 +28,8 @@ Community Opportunities for Bartering/Free Seeds:
 No-cost Gardening:
 * Start seeds in seed snails made from cardboard
 * Make a garden bed from pallets (confirm that there is an "HT" mark on the pallet first! Otherwise it's possible it has been treated with harsh chemicals you don't want near your food. You can find free pallets listed on FB Marketplace, Buy Nothing, or Craigslist.)
-* Fill with ...TBD
+
+What's next??
+* Fill garden beds with ...TBD...
+* Rain barrels??
+* Fermenting workshops??
