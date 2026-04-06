@@ -18,6 +18,7 @@ Places to buy Native Seeds:
 * [MN Seed Project](https://www.mnseedproject.org)
 * Prairie Moon Nursery
 * Prairie Restoration, Inc.
+* More links at [MN Wildflowers](https://www.minnesotawildflowers.info/page/links)
 
 Community Opportunities for Bartering/Free Seeds:
 * Whittier/Wedge Garden Collective Seeds
