@@ -23,6 +23,7 @@ Places to buy Native Seeds:
 Community Opportunities for Bartering/Free Seeds:
 * Whittier/Wedge Garden Collective Seeds
 * [Dream of Wild Health Annual Seed Swap](https://dreamofwildhealth.org/events/) (typically in early April)
+* [MN Tool Library Seed Bee](https://mntoollibrary.simpletix.com/) (typically in April)
 * You local seed library: https://www.hclib.org/about/locations/seed-libraries
 
 No-cost Gardening:
