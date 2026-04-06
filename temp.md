@@ -9,7 +9,7 @@ Who are we? I dunno! But we live in South Minneapolis and we like to garden.
 
 Things we're doing:
 * Pallets to Garden Beds
-* Whittier/Wedge Garden Collective Seeds
+* Whittier&Friends Garden Collective Seeds
 * Skillshares
 * Caring for our edibles: [Falling Fruit](https://fallingfruit.org)
 
