@@ -34,3 +34,25 @@ What's next??
 * Fill garden beds with ...TBD...
 * Rain barrels??
 * Fermenting workshops??
+
+advice on soil ammending:
+"This reminds me... some arborists came to my office and  gave a presentation yesterday and one of the interesting things they had to say was some rules of thumb around soil nutrients in the Twin Cities area. They said on average the soil on the metro is
+- Deficient in potassium (K)
+- deficient in manganese (Mn)
+- sometimes deficient in nitrogen (N)
+- contains excess phosphorus (P)
+
+So if you don't have soil test results for your specific site, a good starting point for fertilizing is to find something with a lot of K and minimal P. Mn is a trace nutrient and basically, it's hard to dial in the right amount, so not recommended to mess with that particular nutrient without getting your soil tested."
+
+Testing soil for contaminants:
+
+"As part of the county’s soil health funding, we offer free soil tests to residents in the county. You are eligible for a free soil test if you:
+
+Raise livestock or horses on pastures
+Grow crops in a rural or urban area
+Tests analyze for phosphorus, potassium, soil pH, and percent organic matter.
+
+Staff are available to come to your property and take the samples for you. Samples will be analyzed at the University of Minnesota’s soil lab, and test results are usually available within two-to-three weeks. Our staff are happy to help you understand what those test results mean for your operations, and what options you may have to improve your soil health and farm profitability.
+
+Contact our staff to set up a time for soil sampling!"
+Last know best contact (2026): Kevin.Ellis@hennepin.us
