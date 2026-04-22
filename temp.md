@@ -12,6 +12,7 @@ Things we're doing:
 * Whittier&Friends Garden Collective Seeds
 * Skillshares
 * Caring for our edibles: [Falling Fruit](https://fallingfruit.org)
+* Gathering garden tools
 
 Places to buy Native Seeds:
 * [Out Back Nursery and Native Flora](https://www.outbacknursery.com) in Hastings, MN
