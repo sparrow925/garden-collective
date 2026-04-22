@@ -12,7 +12,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/aliens-among-us.jpg
     alt: "plants"
-    title: "Gardening"
+    title: "New Title"
     excerpt: "In this essay I will-"
     url: "/temp/"
     btn_class: "btn--primary"
